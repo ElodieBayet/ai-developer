@@ -1,0 +1,8 @@
+# Folders
+.vscode/
+_notes/
+**/__pycache__/
+
+# Files
+*.log
+*.pdf
