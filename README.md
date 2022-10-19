@@ -1,4 +1,4 @@
-## AI Developer
+# AI Developer
 
 
 Discipline | Technology | Purpose | Date | Reviewed
@@ -6,23 +6,23 @@ Discipline | Technology | Purpose | Date | Reviewed
 Artificial Intelligence | Python | Learning | 2022.07 | 2022.10
 
 
-### Description
+## Description
 
-Dossier d'étude de la formation **Développeur·euse orienté IA**. Rassemble des notes personnelles, des exemples, des démonstrations, des exercuces, etc.
+Dossier d'étude de la formation **Développeur·euse orienté IA**. Rassemble des notes personnelles, des exemples, des démonstrations, des exercices, etc.
 
 
 **Légende**
 
-La retranscription de certains fichier est encore en cours de finalisation.
+La retranscription de certains fichiers est encore en cours de finalisation.
 
 * 🟢 `complete`
 * 🟠 `on work`
 
 
 
-### Contenu
+## Contenu
 
-##### **1. - [Python Advanced](./01.python-advanced/)**
+#### **1. - [Python Advanced](./01.python-advanced/)**
 
 1. **[Object-Orented](./01.python-advanced/01.oop/)**
     * 🟢 Concept
@@ -39,7 +39,7 @@ La retranscription de certains fichier est encore en cours de finalisation.
     * 🟠 UnitTests
 
 
-##### **2. [Python Libraries](./02.python-librairies/)**
+#### **2. [Python Libraries](./02.python-librairies/)**
 
 1. **[NumPy](./02.python-librairies/01.numpy/)**
     * 🟢 Prerequise
@@ -59,7 +59,7 @@ La retranscription de certains fichier est encore en cours de finalisation.
     * 🟠 Red wine
 
 
-##### **3. [Database](./03.database/)**
+#### **3. [Database](./03.database/)**
 
 1. **[SQL](./03.database/01.sql/)**
     * ...
@@ -67,7 +67,7 @@ La retranscription de certains fichier est encore en cours de finalisation.
     * ...
 
 
-##### **4. [Machine Learning](./04.machine-learning/)**
+#### **4. [Machine Learning](./04.machine-learning/)**
 
 1. **[Preparation](./04.machine-learning/01.preparation/)**
     * Cleaning
@@ -77,29 +77,38 @@ La retranscription de certains fichier est encore en cours de finalisation.
 3. **[Regression](./04.machine-learning/03.regression/)**
     * ...
 4. **[ML](./04.machine-learning/04.ml/)**
-    * 
+    * ...
 
 
-##### **5. [Deep Learning](./05.deep-learning/)**
+#### **5. [Deep Learning](./05.deep-learning/)**
 
-1. 
-
-
-
-### Références principales
+1. **...**
 
 
-##### **1.** Ressources
+#### **6. [Projects](./06.projects/)**
+
+1. **...**
+    * ...
+2. **[Customer Churn](./06.projects/02.churn/)**
+    * 🟢 EDA Churn
+    * 🟠 ML Churn
+
+
+
+## Références principales
+
+
+#### **1.** Ressources
 
 * [RealPython](https://realpython.com/)
 * [Kaggle](https://www.kaggle.com/)
 * Et divers livres aux éditions _ENI_, _Dunod_, et _Eyrolles_
 
 
-##### **2.** Formateur·rice·s
+#### **2.** Formateur·rice·s
 
 * De RUYVER, Dasha
 * UKANDA, Didier
 * Van OSSELAR, Cédric
 * WAUMAN, Romain
-* et moi-même aussi 😃
+* et **moi-même** aussi 😃
