@@ -70,8 +70,8 @@ La retranscription de certains fichiers est encore en cours de finalisation.
 #### **4. [Machine Learning](./04.machine-learning/)**
 
 1. **[Preparation](./04.machine-learning/01.preparation/)**
-    * Cleaning
-    * Preprocessing
+    * 🟠 Cleaning
+    * 🟠 Preprocessing
 2. **[Classification](./04.machine-learning/02.classification/)**
     * ...
 3. **[Regression](./04.machine-learning/03.regression/)**
@@ -92,6 +92,9 @@ La retranscription de certains fichiers est encore en cours de finalisation.
 2. **[Customer Churn](./06.projects/02.churn/)**
     * 🟢 EDA Churn
     * 🟠 ML Churn
+3. **[Customer Churn](./06.projects/03.final/)**
+    * 🟢 EDA Weather AUS
+    * 🟠 ML Weather AUS
 
 
 
@@ -111,4 +114,4 @@ La retranscription de certains fichiers est encore en cours de finalisation.
 * UKANDA, Didier
 * Van OSSELAR, Cédric
 * WAUMAN, Romain
-* et **moi-même** aussi 😃
+* et **moi-même** surtout 😃
