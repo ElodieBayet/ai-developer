@@ -106,12 +106,3 @@ La retranscription de certains fichiers est encore en cours de finalisation.
 * [RealPython](https://realpython.com/)
 * [Kaggle](https://www.kaggle.com/)
 * Et divers livres aux éditions _ENI_, _Dunod_, et _Eyrolles_
-
-
-#### **2.** Formateur·rice·s
-
-* De RUYVER, Dasha
-* UKANDA, Didier
-* Van OSSELAR, Cédric
-* WAUMAN, Romain
-* et **moi-même** surtout 😃
