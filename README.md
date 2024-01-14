@@ -22,7 +22,7 @@ La retranscription de certains fichiers est encore en cours de finalisation.
 
 ## Contenu
 
-#### **1. - [Python Advanced](./01.python-advanced/)**
+#### **1. [Python Advanced](./01.python-advanced/)**
 
 1. **[Object-Orented](./01.python-advanced/01.oop/)**
     * 🟢 Concept
